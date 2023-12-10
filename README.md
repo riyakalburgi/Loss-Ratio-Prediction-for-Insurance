@@ -1,4 +1,4 @@
-# Loss-Ratio-Prediction-for-Insurance
+# Loss Ratio Prediction for Insurance
 ## Introduction
 
 In the complex landscape of insurance, where balancing premiums and claims is vital for a company's financial health, the ability to predict loss ratios accurately has emerged as a crucial challenge. Insurance companies rely on this fundamental metric – the ratio of claims paid out to premiums earned – to make strategic decisions about their pricing strategies. This delicate equilibrium, however, is influenced by a myriad of factors ranging from demographic details to external conditions like weather and economic fluctuations. 
@@ -12,4 +12,3 @@ The journey begins with meticulous data preprocessing. Rigorous examinations wil
 The heart of this project lies in the development and training of a predictive model. By harnessing the training data, the model will learn the intricate patterns within the datasets. Through iterative testing and validation, the model's performance will be rigorously evaluated. Only when the predicted values align closely with actual outcomes will the model be deemed ready for real-world application.
 
 In essence, this project represents a synergy of cutting-edge technology, mathematical precision, and industry insight. By enabling insurance companies to peer into the future – albeit probabilistically – it holds the potential to revolutionize how premiums are priced and claims are managed. As we embark on this data-driven odyssey, the end goal remains crystal clear: empowering the insurance industry with predictive intelligence, one loss ratio at a time.
-![image](https://github.com/riyakalburgi/Loss-Ratio-Prediction-for-Insurance/assets/56675842/32b0fe86-2dd9-4563-b7d6-c309377184d9)
